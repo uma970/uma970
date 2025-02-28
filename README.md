@@ -1,45 +1,51 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbnVqYTI5Z2dpbWVidTVtemxxMDh2dmk3aTNvbnFpdXR4cWt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif"  />
-</div>
+## 👋 Hi, I'm Uma!
 
-###
+🚀 I am currently working as a Data Science Intern at Oeson Private Limited 
+📍 Based in Birmingham, UK  
+🎓 MSc in Big Data Analytics
+📊 Passionate about transforming raw data into actionable insights!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/umauma/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="uma271@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/patwaluma27" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
 
-###
 
-<h1 align="center">Hey there 👋</h1>
+### 🛠️ Skills & Tools
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">This is Uma from Birmingham, UK<br> 🔭 I’m currently working as Data Science Intern in Oeson Private Limited <br>🚀 Data Analyst | SQL | Python | R | Power BI | Excel | Tableau<br>🎓 MSc in Big Data Analytics | BCA in Computer Science  <br>📊 Passionate about transforming raw data into actionable insights!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<img src="https://img.shields.io/badge/SQL-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-  
 
-###
+### 📌 Featured Projects
 
+🔹 **[Health Alert ML Model](https://github.com/uma970/health-alert-ml)** – Built a Python ML model reducing reaction time by 50%.  
+🔹 **[Loan Eligibility Prediction](https://github.com/uma970/loan-eligibility)** – Developed a predictive model for loan approval.  
+🔹 **[Power BI Healthcare Dashboard](https://github.com/uma970/healthcare-dashboard)** – Visualized hospital performance metrics.  
+🔹 **[SQL Database for E-learning](https://github.com/uma970/sql-elearning)** – Designed a relational database for an e-learning platform.  
+🔹 **[Twitter Sentiment Analysis](https://github.com/uma970/twitter-sentiment)** – Analyzed sentiment trends using NLP.  
 
-###
+---
+
+### 📊 GitHub Stats
+
+![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uma970&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uma970&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uma970&theme=dark)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uma970&theme=algolia)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uma970) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/uma970)  
+✉️ Email: uma271@outlook.com  
+
+🚀 Let's collaborate on data-driven projects!
