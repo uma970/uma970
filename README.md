@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Uma!
-
-🚀 I am currently working as a Data Science Intern at Oeson Private Limited 
-📍 Based in Birmingham, UK  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbnVqYTI5Z2dpbWVidTVtemxxMDh2dmk3aTNvbnFpdXR4cWt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" alt="Animated Data GIF" width="300"/>
+🚀 I am currently working as a Data Science Intern at Oeson Private Limited
+📍 Based in Birmingham, UK
 🎓 MSc in Big Data Analytics
 📊 Passionate about transforming raw data into actionable insights!
 
@@ -17,24 +17,10 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
-### 📌 Featured Projects
-
-🔹 **[Health Alert ML Model](https://github.com/uma970/health-alert-ml)** – Built a Python ML model reducing reaction time by 50%.  
-🔹 **[Loan Eligibility Prediction](https://github.com/uma970/loan-eligibility)** – Developed a predictive model for loan approval.  
-🔹 **[Power BI Healthcare Dashboard](https://github.com/uma970/healthcare-dashboard)** – Visualized hospital performance metrics.  
-🔹 **[SQL Database for E-learning](https://github.com/uma970/sql-elearning)** – Designed a relational database for an e-learning platform.  
-🔹 **[Twitter Sentiment Analysis](https://github.com/uma970/twitter-sentiment)** – Analyzed sentiment trends using NLP.  
-
----
-
 ### 📊 GitHub Stats
 
-![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uma970&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uma970&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uma970&theme=dark)
-
----
 
 ### 🏆 GitHub Trophies
 
