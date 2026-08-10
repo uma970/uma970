@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Uma!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbnVqYTI5Z2dpbWVidTVtemxxMDh2dmk3aTNvbnFpdXR4cWt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" alt="Animated Data GIF" width="300"/>
-🚀 I am currently working as a Data Science Intern at Oeson Private Limited
-📍 Based in Birmingham, UK
+🚀 I am currently working as a Data Analyst Intern at DAMNS Private Limited
+📍 Based in Delhi, India
 🎓 MSc in Big Data Analytics
 📊 Passionate about transforming raw data into actionable insights!
 
